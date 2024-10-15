@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding : 0;
+    
+}
+
+nav{
+    background-color: rgb(210, 172, 130);
+    padding: 10px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+
+}
+body{
+    background-image: url(cloud.jpg.jpeg);
+    background-size: cover;
+}
+p{
+    color:silver;
+}
+
+h3
+{
+    color: rgb(200, 217, 230);
+
+}
+h2
+{
+    color: rgb(223, 136, 136);
+}
+h4
+{
+    color: antiquewhite;
+}
+#ok
+{
+    color: whitesmoke;
+}
+#dd
+{
+    color: skyblue;
+    text-align: center;
+    justify-items: auto;
+}
+
+.navbar a {
+    float: left;
+    padding: 1px 1px;
+    text-decoration: none;
+    color: rgb(242, 243, 247);
+    background-color: rgb(210, 172, 130);;
+}
+.navbar a:hover {
+    background-color: rgb(51, 51, 104);;
+}
+
